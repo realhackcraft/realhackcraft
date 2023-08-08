@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @realhackcraft
 - 👀 I’m interested in `Java`, `Javascript`
-- 🌱 I’m currently learning `Java` and `Javascript`
-- 💞️ I’m looking to collaborate on `JavaScript`
-- 💰 I'm working on [my custom game engine](https://github.com/realhackcraft/Game-Engine) and [Connect Earl](https://github.com/he-patrick/connectearl)
+- 🌱 I’m currently learning `Java`
+- 💰 I'm working on [my custom game engine](https://github.com/realhackcraft/Game-Engine) and another project which will be made public soon (Robtop style)
 - 📫 How to reach me: hackcraft_@hotmail.com
