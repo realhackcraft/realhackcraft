@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @realhackcraft
 - 👀 I’m interested in `Java`, `Javascript`
 - 🌱 I’m currently learning `Java`
-- 💰 I'm working on [my custom game engine](https://github.com/realhackcraft/Game-Engine) and another project which will be made public soon (Robtop style)
+- 💰 I'm working on [my custom game engine](https://github.com/realhackcraft/Game-Engine) and another project which ~~will be made public soon~~ is now public! ⬇️
+- 🎮 I have made my newest game framework public, its called [RPGkit](https://github.com/realhackcraft/RPGkit)!
 - 📫 How to reach me: hackcraft_@hotmail.com
