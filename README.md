@@ -1,6 +1,2 @@
-- 👋 Hi, I’m @realhackcraft
-- 👀 I’m interested in `Java`, `Javascript`
-- 🌱 I’m currently learning `swift`
-- 💰 I'm working on [my custom game engine](https://github.com/realhackcraft/Game-Engine) and another project which ~~will be made public soon~~ is now public! ⬇️
-- 🎮 I have made my newest game framework public, its called [RPGkit](https://github.com/realhackcraft/RPGkit)!
-- 📫 How to reach me: hackcraft_@hotmail.com
+# Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=realhackcraft)](https://git.io/streak-stats)
