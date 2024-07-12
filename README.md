@@ -5,7 +5,8 @@ You are visiting: **Hackcraft_**'s profile!
 ## whoami
 
 I am a huge **MacOS** fan. I love it for its amazing _UI_, its intuitive _UX_, and a _DX_ much better than on windows.
-I recently discovered my mad terminal skills and have switched from **JetBrains** (🤢📉🐌) products to **neovim** (🔥📈🚀)
+I recently discovered my mad **terminal** skills and have switched from **JetBrains** (🤢📉🐌) products to **neovim** (🔥📈🚀).
+Because of this change, I found out about **ricing** and am now trying to rice MacOS to be **gruvbox**.
 
 I am a software developper, fairly good at:
 - Git
