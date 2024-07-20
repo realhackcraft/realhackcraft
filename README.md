@@ -1,5 +1,12 @@
 # Hackcraft_'s profile page
 
+![MacOS](https://img.shields.io/badge/MacOS-8e8e93.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Yabai](https://img.shields.io/badge/yabai-white.svg?style=for-the-badge&logo=yabai&logoColor=black)
+![Alacritty](https://img.shields.io/badge/Alacritty-000000.svg?style=for-the-badge&logo=alacritty&logoColor=33ff33)
+![Neovim](https://img.shields.io/badge/neovim-%252357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f34f29.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
 You are visiting: **Hackcraft_**'s profile!
 
 ## whoami
