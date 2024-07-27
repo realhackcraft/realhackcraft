@@ -2,7 +2,7 @@
 
 ![MacOS](https://img.shields.io/badge/MacOS-8e8e93.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Yabai](https://img.shields.io/badge/yabai-white.svg?style=for-the-badge&logo=yabai&logoColor=black)
-![Alacritty](https://img.shields.io/badge/WezTerm-000000.svg?style=for-the-badge&logo=wezterm&logoColor=33ff33)
+![WezTerm](https://img.shields.io/badge/WezTerm-000000.svg?style=for-the-badge&logo=wezterm&logoColor=33ff33)
 ![Neovim](https://img.shields.io/badge/neovim-%252357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f34f29.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -13,14 +13,14 @@ You are visiting: **Hackcraft_**'s profile!
 
 I am a huge **MacOS** fan. I love it for its amazing _UI_, its intuitive _UX_, and a _DX_ much better than on windows.
 I recently discovered my mad **terminal** skills and have switched from **JetBrains** (🤢📉🐌) products to **neovim** (🔥📈🚀).
-Because of this change, I found out about **ricing** and am now trying to rice MacOS to be **gruvbox**.
+Because of this change, I found out about **ricing** and am now trying make a **gruvbox** rice for MacOS.
 
 I am a software developper, fairly good at:
 - Git
 - Java
--  JavaScript (Nuxt.js, React and Client Side)
--  Python
--  SQL
+- JavaScript (Nuxt.js, React and Client Side)
+- Python
+- SQL
 
 I'm trying to learn:
 - Rust
