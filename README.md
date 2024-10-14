@@ -1,6 +1,7 @@
 # Hackcraft_'s profile page
 
 ![MacOS](https://img.shields.io/badge/MacOS-8e8e93.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Yabai](https://img.shields.io/badge/Nix-5277c3.svg?style=for-the-badge&logo=nixOS&logoColor=7ebae4)
 ![Yabai](https://img.shields.io/badge/yabai-white.svg?style=for-the-badge&logo=yabai&logoColor=black)
 ![WezTerm](https://img.shields.io/badge/WezTerm-000000.svg?style=for-the-badge&logo=wezterm&logoColor=33ff33)
 ![Neovim](https://img.shields.io/badge/neovim-%252357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
