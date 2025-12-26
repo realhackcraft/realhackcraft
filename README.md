@@ -31,7 +31,7 @@ I'm learning:
 
 ### Stats
 
-[![Hackcraft_'s GitHub stats](https://github-readme-stats.vercel.app/api?username=realhackcraft&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)[![Hackcraft_'s GitHub stats](https://github-readme-stats.vercel.app/api?username=realhackcraft&show_icons=true&include_all_commits=true&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Hackcraft_'s GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=realhackcraft&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)[![Hackcraft_'s GitHub stats](https://github-readme-stats.vercel.app/api?username=realhackcraft&show_icons=true&include_all_commits=true&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![Hackcraft_'s Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realhackcraft&layout=donut&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
