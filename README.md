@@ -13,22 +13,20 @@ You are visiting: **Hackcraft_**'s profile!
 
 I am a software developer, and I code a lot of random stuff.
 
-I'm pretty good at:
-- Git 
-- Java
-- JavaScript (Vue, Astro and Client Side)
-- Python
-- SQL
-
-I'm fairly good at:
+I primarily do:
 - Rust
+- Java
+- JavaScript (Vue, Astro and vanilla)
+
+I'm sometimes dabble in:
+- Python
 - Lua
 - Arduino C
+- SQL
 
-I'm trying to learn:
+I'm learning:
 - C
 - Go
-- 
 - Networking
 
 ### Stats
